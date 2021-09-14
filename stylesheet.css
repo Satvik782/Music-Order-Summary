@@ -45,6 +45,20 @@ html,body
     
 }
 
+#plan
+{
+    margin: 0px 0px 0px 0px;
+    padding: 10px 110px 0px 0px;
+    font-weight: 900;
+}
+
+#price
+{
+    margin: 0px 0px 0px 0px;
+    padding: 5px 120px 0px 0px;
+    color: hsl(224, 23%, 55%);
+    font-size: 0.9em;
+}
 
 #music
 {
@@ -77,21 +91,6 @@ html,body
 {
     color: hsl(224, 23%, 55%);
     margin: 0px;
-}
-
-#plan
-{
-    margin: 0px 0px 0px 0px;
-    padding: 10px 120px 0px 0px;
-    font-weight: 900;
-}
-
-#price
-{
-    margin: 0px 0px 0px 0px;
-    padding: 5px 120px 0px 10px;
-    color: hsl(224, 23%, 55%);
-    font-size: 0.9em;
 }
 
 #pay
